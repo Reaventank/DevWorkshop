@@ -1,0 +1,4 @@
+Both emphasise communication being clear and concise. Both of them also realise that time is an important, and that the review should be done quickly. Microsoft would rather have a bot review, but yelp has that the reviewer is knowledgeable on the code you wrote. Microsoft also emphasises that the feelings of the reviewer should not get in the way of good reviews.
+The program should run bug free, the reviewer should not have to change a lot of the original code, and both parties should understand the code.
+
+https://codereview.stackexchange.com/questions/287939/hackerrank-project-euler-12-python-highly-divisible-triangular-numbers This is a good code review because it goes really in depth, and fixes many things, while explaining what is happening.
